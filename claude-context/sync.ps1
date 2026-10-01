@@ -3,7 +3,7 @@ $here = $PSScriptRoot
 $claude = Join-Path $HOME ".claude"
 $sessions = Join-Path $HOME "OneDrive\Desktop\CLAUDE\Sessions"
 $slug = ($sessions -replace '[:\/]', '-')
-Copy-Item "$claude\projects\$slug\memory\*" "$here\memory\" -Force
+Copy-Item "$claude\projects\$slug\memory\*" "$here\memory\" -Force -Exclude project_salaj_mentorship.md,reference_account_watch.md,reference_chatgpt_image_pipeline.md,reference_unit_economics.md
 Get-ChildItem "$here\memory\*.md" | ForEach-Object { (Get-Content $_ -Raw) -replace 'phx_[A-Za-z0-9]{20,}','[REDACTED]' | Set-Content $_ -NoNewline }
 Copy-Item "$claude\CLAUDE.md" "$here\CLAUDE.md" -Force
 Copy-Item "$claude\commands\*" "$here\commands\" -Force
