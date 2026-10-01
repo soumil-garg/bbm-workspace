@@ -1,0 +1,32 @@
+- [Competitor Research Process](feedback_competitor_research.md) — 7-step checklist; never keyword-only; True Tiffins + Food Darzee missed without it
+- [Creative Production Stack](feedback_creative_production_stack.md) — Arcads MCP (custom connector, mcp.arcads.ai) + Higgsfield skills. Always cover HOW creative gets made, not just strategy. He doesn't shoot.
+- [Ad Creative Process](process_ad_creatives.md) — call skill static-ad-creatives-maker-by-sg (v2 full pipeline: data, research, psychology, copy, design, QA, upload). Never skip research.
+- [Voice Input](feedback_voice_input.md) — Uses Wispr Flow on Windows (not Win+H)
+- [Name](user_name.md) — Soumil Garg, address as "sir"
+- [Role](user_role.md) — Founder, Big Bigger Media — Meta ads agency (D2C sales + lead gen)
+- [Domains](user_domains.md) — Business, Finances, Relationships, Learning
+- [Schedule](user_schedule.md) — Variable; sleeps late (3–4 AM) or early at home; 30 min real deep work/day
+- [Tone](feedback_tone.md) — Direct. Never assume; ask when unclear, especially on business/finances/relationships
+- [Apps](reference_apps.md) — WhatsApp, Meta Ads Manager, Ads Library, Google Analytics, Gmail, Meet, Instagram
+- [Vault Path](reference_vault_path.md) — C:\Users\soumi\Documents\Vault
+- [PostHog Credentials](reference_posthog.md) — MeraHealth project ID 351010. NOTE: old phx_ key is DEAD. PostHog now connected via OAuth MCP (https://mcp.posthog.com/mcp). Lead = completed onboarding (not form submission).
+- [MeraHealth Client Context](client_merahealth.md) — ALWAYS read this at the start of any MeraHealth session. Contains: product overview, Meta account ID, active campaigns, PostHog funnel data, key problems, 3-phase growth strategy, and instructions.
+- [Daigo Client Context](client_daigo.md) — ALWAYS read at the start of any Daigo session. DEFAULT SESSION for Daigo. Ad#2 is dominant creative. Balance ₹529 (critically low Jun 2). Pixel website audiences dead (~20 people). act_1274511830515107.
+- [Handling Blockers](feedback_blockers.md) — When hitting a wall, search internet for real alternatives first; never just explain the problem
+- [Never Assume on Client Work](feedback_never_assume.md) — Never assume account IDs, form IDs, or API params on client campaigns; always confirm when uncertain
+- [Eben Joseph Playbook](reference_eben_joseph_playbook.md) — Full compile of IG educator ebenjoseph._ (all 70 Meta-ads reels, transcribed) in vault at Resources/Eben Joseph - Meta Ads/
+- [Instagram Reel Series](project_instagram_reels.md) — research → vault note → 9:16 animated artifact he screen-records. Counterintuitive angle + on-screen caveats.
+- [Bagwani Client Context](client_bagwani.md) — act 1682300005612270. Shopify site; legacy WooCommerce /product/ URLs in old ads all 404. How to export ad destination URLs.
+- [rclone → Google Drive](reference_rclone_gdrive.md) — mu_drive remote = Masters Union 1TB account; resume-upload.cmd re-runs the screen-recordings offload safely
+- [Meta CTA on SHARE ads](reference_meta_cta_share_ads.md) — API returns empty call_to_action_type for existing-post ads even when set; empty ≠ missing
+- [Academic Integrity](feedback_academic_integrity.md) — Never fabricate dates in graded submissions; decline once, then give the honest reframe (omitting a date is not a lie)
+- [Placement Asset Customization](feedback_placement_asset_customization.md) — Multi-format creative = ONE ad (vertical in Stories/Reels, square in Feeds), never an ad per format. Image version works via ads_create_ad inline asset_feed_spec.
+- [Dropbox → Meta upload](reference_dropbox_meta_upload.md) — local Dropbox = Pipeboard's; use /Apps/BBM Creatives/<client>; restart Dropbox.exe if sync hangs. Savvy IDs inside.
+- [Marketing Personal Brand](project_marketing_personal_brand.md) — From 2026-09-28 content = BBM lead gen, "marketing guy" not "Meta ads guy"; overrides old no-agency-tie-in rule
+- [Apify](reference_apify.md) — free plan, token in user env var APIFY_TOKEN; costs; check paidPartnership before trusting outliers
+- [Reddit Access](reference_reddit_access.md) — Reddit blocks everything; use Arctic Shift API from local Python with a date window. Scripts in C:\cca\habbits\research
+- [Habbits Client Context](client_habbits.md) — act_1078767279477121. B2G1 mandate, past-data findings, folders, status. Read at the start of any Habbits session.
+- [Grok for research](project_grok_research.md) — planned: Soumil will use Grok for research in the ad creative system; not set up yet
+- [TOF must be unaware-level](feedback_tof_unaware.md) — recognition, humour, curiosity, category reveal; product is the reveal. Savvy round 1 TOF was too aware.
+- [Number the creatives](feedback_number_creatives.md) — big 1..N badge on every creative shown for picking, plus number=ID key
+- [GitHub repos](reference_github_repos.md) — public skill repo, private bbm-workspace (client work + context), sync/restore scripts

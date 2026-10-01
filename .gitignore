@@ -1,0 +1,10 @@
+a/
+b/
+r/
+static-ad-concept-generator/
+ai-ad-prompt-guide/
+Static-Ads/
+mufasa/ref32_b64.txt
+*.err
+__pycache__/
+.env

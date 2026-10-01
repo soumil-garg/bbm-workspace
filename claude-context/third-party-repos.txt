@@ -1,0 +1,10 @@
+# Cloned into C:\cca\<dir> on the original laptop. Re-clone if needed (gitignored here).
+a                        https://github.com/krusemediallc/arcads-claude-code
+b                        https://github.com/AgriciDaniel/banana-claude
+r                        https://github.com/DV0x/creative-ad-agent
+static-ad-concept-generator  https://github.com/Creatify-AI/static-ad-concept-generator
+ai-ad-prompt-guide       https://github.com/Creatify-AI/ai-ad-prompt-guide
+Static-Ads               https://github.com/keith-wohnv/Static-Ads
+# Marketing skills pack installed in ~/.claude/skills/marketingskills:
+#   https://github.com/coreyhaines31/marketingskills
+# Obsidian vault has its own repo: https://github.com/soumil-garg/soumil-garg-vault (private)
