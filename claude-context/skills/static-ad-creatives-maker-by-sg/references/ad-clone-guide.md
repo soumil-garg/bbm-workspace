@@ -1,3 +1,5 @@
+> **Background only (v3.0, 2026-10-10).** Cloning a competitor ad's STRUCTURE is fine for ideas; never copy its text, brand, offer or claims. The v3 prompt anatomy is in `whole-ad-recipe.md`.
+
 # image-ad-clone — reverse-engineer an existing ad into a reusable template
 
 This guide is the shared brain for the **`image-ad-clone`** skill — taking an existing image ad and turning it into a parameterizable prompt template stored in the shared library.

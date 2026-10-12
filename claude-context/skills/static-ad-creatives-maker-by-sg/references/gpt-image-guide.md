@@ -1,5 +1,7 @@
 # chatgpt-image-ad — model-specific prompting guide
 
+**Background only (v3.0):** the v3 prompt anatomy is in `whole-ad-recipe.md`; use this guide for model quirks, not for structure.
+
 This guide is the brain for the **`chatgpt-image-ad`** skill — generating standalone Meta ad creatives with **ChatGPT Image 2** (`gpt-image-2`).
 
 For the shared template library and entry format, see:

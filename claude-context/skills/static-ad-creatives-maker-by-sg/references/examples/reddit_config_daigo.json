@@ -1,0 +1,46 @@
+{
+  "_note": "Example config for scripts/reddit_pull.py, copied from the Daigo run of 2026-10-09 (instant chaas premix, India). Copy to C:/cca/<brand>/research/reddit_config.json and replace every word list. 'indic' words count in any subreddit; 'english' words count only in India-related subreddits.",
+  "brand": "daigo",
+  "out_dir": "C:/cca/daigo/research/reddit_apify/data/",
+  "date_from": "2023-10-09",
+  "date_to": "2026-10-09",
+  "budget_posts": 4.5,
+  "budget_comments": 4.8,
+  "words": {
+    "indic": ["chaas", "chaach", "chhaas", "chach", "mattha", "majjige", "jal ?jeera", "jaljira", "lassi"],
+    "english": ["butter ?milk"],
+    "india_hints": ["india", "indian", "desi", "mumbai", "delhi", "pune", "bangalore", "bengaluru", "hyderabad", "chennai", "kolkata", "gurgaon", "gurugram", "noida", "ahmedabad", "nagpur", "surat", "jaipur", "lucknow", "kerala", "tamil", "gujarat", "punjab", "bihar", "maharashtra", "amul", "indic", "bharat", "bakchod"],
+    "india_exact": ["jeeneetards", "btechtards", "catpreparation", "twentiesindia", "indianteenagers", "fitness_india", "snacksindia", "aajmainekhaya", "mumbaifoodtalk"]
+  },
+  "query_groups": [
+    {"tag": "q1a_core_words", "queries": ["chaas", "chaach", "chhaas", "mattha", "majjige"], "max_posts": 120, "cap": "0.80"},
+    {"tag": "q1b_product_words", "queries": ["masala chaas", "chaas powder", "chaas premix", "instant chaas", "instant buttermilk", "jaljeera", "jal jeera", "jaljira"], "max_posts": 100, "cap": "0.50"},
+    {"tag": "q1c_brands_protein", "queries": ["amul buttermilk", "amul masti", "amul protein buttermilk", "protein buttermilk", "high protein buttermilk", "protein chaas", "pod nutrition", "mille chaas", "daigo"], "max_posts": 100, "cap": "0.50"}
+  ],
+  "sub_jobs": [
+    {"tag_prefix": "s_buttermilk", "subs": ["india", "IndianFood", "AskIndia", "SnacksIndia", "Fitness_India", "mumbai", "pune", "bangalore", "hyderabad", "delhi", "chennai", "kolkata", "ahmedabad", "gurgaon"], "keywords": ["buttermilk"], "max_posts": 60, "cap": "0.15"}
+  ],
+  "use_case_subs": ["india", "AskIndia", "IndianFood", "Fitness_India", "JEENEETards", "Btechtards", "IndiaTravel", "indianrailways"],
+  "use_case_groups": {
+    "ug1_drinks": ["summer drink", "cold drink", "cola", "soft drink", "electrolyte", "ORS", "dehydration", "heatstroke"],
+    "ug2_travel_hostel": ["train food", "irctc", "hostel food", "pg food", "mess food", "office lunch", "tiffin", "travel food"],
+    "ug3_digestion": ["acidity", "bloating", "digestion", "probiotic", "gut health", "curd", "dahi"]
+  },
+  "use_case_max_posts": 40,
+  "use_case_cap": "0.25",
+  "global_use_case_queries": ["train food india", "irctc food", "vande bharat food", "carry food train india", "hostel food", "pg food", "mess food", "summer drink india", "healthy cold drink india", "cola alternative india", "post lunch sleepy", "afternoon slump india", "navratri fasting drink", "vrat drink", "electrolyte drink india", "ors drink india", "nimbu pani", "sattu drink", "shikanji"],
+  "global_use_case_max_posts": 40,
+  "mention_terms": ["daigo", "pod nutrition", "amul protein buttermilk", "mille chaas", "instant chaas", "chaas powder", "buttermilk powder", "protein chaas"],
+  "mention_max_comments": 100,
+  "mention_cap": "1.60",
+  "use_regex": "train|irctc|vande bharat|railway|journey|airport|road trip|travel|hostel|\\bpg\\b|\\bmess\\b|office lunch|tiffin|canteen|bachelor|summer|heat|cold drink|cola|\\bcoke\\b|pepsi|thums up|soft drink|electrolyte|\\bors\\b|dehydrat|nimbu|shikanji|sattu|aam panna|acidity|bloat|digest|\\bgut\\b|probiotic|curd|dahi|yogurt|yoghurt|constipation",
+  "brand_regex": "amul|trustified|mille|\\bpod\\b|protein|daigo|slurrp",
+  "use_min_comments": 30,
+  "brand_min_comments": 15,
+  "schedule": [[80, 40, 40, 45, 2, 5], [80, 40, 40, 30, 2, 5], [80, 30, 30, 30, 2, 8], [60, 30, 30, 25, 3, 8], [60, 25, 25, 20, 3, 10], [50, 20, 25, 20, 4, 10], [40, 20, 20, 15, 4, 10], [30, 15, 20, 15, 5, 10], [25, 15, 15, 10, 5, 15]],
+  "topup_windows": [["2023-10-09", "2024-10-08"], ["2024-10-09", "2025-10-08"]],
+  "topup_subs": ["IndianFood", "india", "AskIndia", "SnacksIndia", "Fitness_India", "IndianFoodPhotos"],
+  "topup_sub_keywords": ["buttermilk"],
+  "budget_topup_posts": 1.0,
+  "budget_topup_comments": 1.2
+}

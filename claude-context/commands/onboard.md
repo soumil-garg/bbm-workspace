@@ -11,9 +11,22 @@ The more complete the input, the faster and more accurate the onboarding. If cri
 
 ## Instructions
 
-You are onboarding a new client for Big Bigger Media. Parse $ARGUMENTS to extract every piece of information provided about the brand. Then execute all three parts below in order. Do not skip steps. Do not present partial information as complete.
+You are onboarding a new client for Big Bigger Media. Parse $ARGUMENTS to extract every piece of information provided about the brand. Then execute all four parts below in order. Do not skip steps. Do not present partial information as complete.
 
 If you find a gap in this skill mid-execution, flag it and ask if the skill file should be updated before continuing.
+
+---
+
+## Part 0 — Tracking Accuracy Check (mandatory, FIRST, added 2026-10-06 after Lotus Sculpture)
+
+Before any Meta purchase, ROAS or CPL number from this client is used for anything (including Part 1e), prove that Meta's tracking is accurate against the store of record (Shopify, Miva, WooCommerce or whatever they run). On Lotus, Meta counted every sale about twice and sent half the value; ROAS 11 looked great and was fiction.
+
+Run the `tracking-accuracy-audit` skill (tool: `C:\cca\tools\tracking_audit\audit.py`): inventory (how the pixel is connected), pull Meta dataset stats plus daily results, pull the store's orders (time, total, status only), reconcile, then name the cause per platform.
+
+- Needed from the client at intake: ad account id, pixel/dataset id, store platform and URL, an order export (90+ days) or admin access, and who approves site changes. If any is missing, ask for it now; do not skip the check.
+- New store or new pixel with no history: do the test-order version (one real order, watch Test Events, confirm one Purchase with value).
+- Output: GREEN, AMBER or RED plus a vault note `Projects\[client-name]-tracking-audit-[mon][yyyy].md`.
+- If RED or AMBER, say so in the first lines of your final summary to Soumil and carry it into Part 3 (Verification Findings and Recommendations: fix tracking before judging or scaling any ad). Report a finding to the client as a finding; any live site or tracking change still needs their written OK.
 
 ---
 
@@ -50,7 +63,7 @@ foreach ($ad in $r.searchResults) {
 Note: how many ads are live, what the actual ad copy says, what formats they're using, what CTAs. Compare against what the client told you.
 
 **1e. Ad account data** (if ad account ID was provided)
-Use the Meta Ads MCP (mcp__9c1ec85d) to pull campaign-level and ad-level insights for the last 30 days. Extract: spend, key metric (ROAS/CPL/CPP), CTR, what's running, what's paused. This is ground truth — use it to validate any performance claims the client made.
+Use the Meta Ads MCP (mcp__9c1ec85d) to pull campaign-level and ad-level insights for the last 30 days. Extract: spend, key metric (ROAS/CPL/CPP), CTR, what's running, what's paused. Spend, CTR and what is running are reliable. Purchases, ROAS and CPA are only as accurate as the Part 0 verdict says: print the Part 0 verdict next to those numbers and never present them as ground truth when Part 0 is RED or was not run.
 
 **1f. Verification summary**
 After completing 1a–1e, state:
@@ -120,6 +133,7 @@ Brief structure:
 
 ## 3. Verification Findings
 (what the client told us vs. what primary sources confirmed — every discrepancy flagged)
+**Tracking accuracy (Part 0): GREEN / AMBER / RED** with a one-line cause and a link to the tracking audit note. Meta purchases, ROAS and CPA in this brief are labelled with this verdict.
 
 ## 4. Competitor Landscape
 ### 4a. Direct competitors (same geo, same price, same customer)

@@ -1,3 +1,5 @@
+> **LEGACY, UGC VIDEO and older statics only (v3.0, 2026-10-10).** Do not use these templates for new static rounds: they include fake comment threads, fake chats, before/after splits and handwritten testimonials that Soumil rejected or that break the policy checklist (rows 4, 6, 7), and they place text by prompt without product references. The v3 recipe is `whole-ad-recipe.md`.
+
 # Image-ad prompt library
 
 Validated, parameterizable prompt templates for generating standalone Meta ad creatives. Pair each with a brand product reference image via `--image-ref` for brand fidelity.

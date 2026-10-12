@@ -1,0 +1,761 @@
+{
+ "_about": "Copy pool format: one concept per picture (n, name, scene = what the picture shows, new = true for a new picture idea), c = candidate lines as [language, text, note]. Languages: EN, HG (Hinglish), or any tag you use. The first line of an existing picture is its current line (note \"current\"). A chat or note concept lists the whole exchange per candidate. sublines = the small supporting line options.",
+ "concepts": [
+  {
+   "n": 1,
+   "name": "TICKET",
+   "scene": "Yellow poster. A railway ticket stamped CNF lies under the pouch, one sachet lies across it like a second travel document, a full steel tumbler of chaas stands beside it.",
+   "new": false,
+   "c": [
+    [
+     "HG",
+     "Ticket confirm. Chaas confirm.",
+     "current"
+    ],
+    [
+     "HG",
+     "Sleeper mein bhi chaas.",
+     ""
+    ],
+    [
+     "HG",
+     "Train late. Chaas ready.",
+     ""
+    ],
+    [
+     "HG",
+     "Safar lamba. Chaas ek sachet door.",
+     ""
+    ],
+    [
+     "EN",
+     "Waitlisted? Chaas is confirmed.",
+     ""
+    ],
+    [
+     "EN",
+     "Ticket: confirmed. Chaas: confirmed.",
+     ""
+    ],
+    [
+     "EN",
+     "Next stop: chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "Window seat. Chaas in hand.",
+     ""
+    ],
+    [
+     "EN",
+     "Journey sorted. Chaas sorted.",
+     ""
+    ],
+    [
+     "EN",
+     "Train's late. Your chaas isn't.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "name": "THREE STEPS",
+   "scene": "Green poster. A sachet is tilted over a shaker bottle with powder pouring in; a steel tumbler of chaas, a spice bowl, the pouch and three sachets sit around it. Numbered 1, 2, 3 circles beside the headline.",
+   "new": false,
+   "c": [
+    [
+     "HG",
+     "Kholo. Milao. Piyo.",
+     ""
+    ],
+    [
+     "HG",
+     "Sachet kholo. Paani milao. Shake karo.",
+     ""
+    ],
+    [
+     "HG",
+     "Itna easy hai chaas?",
+     ""
+    ],
+    [
+     "HG",
+     "Teen kaam. Ek glass chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "Tear. Add water. Shake. Chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "Sachet. Water. Shake. Chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "Three steps. One glass of chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "That's the whole recipe.",
+     ""
+    ],
+    [
+     "EN",
+     "Chaas, in three steps.",
+     ""
+    ],
+    [
+     "EN",
+     "Recipe: water. And a sachet.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "name": "PRICE PER GLASS",
+   "scene": "Blue studio poster. One big full glass of chaas with ten sachets and the pouch beside it; a white pill reads \"10 sachet. Rs 279.\"",
+   "new": false,
+   "c": [
+    [
+     "HG",
+     "Rs 28 ka glass.",
+     "current"
+    ],
+    [
+     "HG",
+     "Chaas ka rate: Rs 28.",
+     ""
+    ],
+    [
+     "HG",
+     "Rs 28. Ek glass. Bas.",
+     ""
+    ],
+    [
+     "EN",
+     "Rs 28 a glass.",
+     ""
+    ],
+    [
+     "EN",
+     "10 glasses of chaas. Under Rs 300.",
+     ""
+    ],
+    [
+     "EN",
+     "Under Rs 30 a glass.",
+     ""
+    ],
+    [
+     "EN",
+     "Rs 28. Yes, per glass.",
+     ""
+    ],
+    [
+     "EN",
+     "A glass of chaas for Rs 28.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "name": "HOSTEL STUDENT",
+   "scene": "Cream poster. A smug student in a blue hoodie raises a steel tumbler of chaas and the pouch toward the camera; two sachets sit in his hoodie pocket.",
+   "new": false,
+   "c": [
+    [
+     "HG",
+     "Hostel mein dahi? Mazaak mat karo.",
+     "current"
+    ],
+    [
+     "HG",
+     "Mess mein chaas nahi. Room mein hai.",
+     ""
+    ],
+    [
+     "HG",
+     "Hostel ka kitchen band. Chaas chalu.",
+     ""
+    ],
+    [
+     "EN",
+     "Dahi in a hostel? Cute.",
+     ""
+    ],
+    [
+     "EN",
+     "Hostel kitchen not included. Chaas is.",
+     ""
+    ],
+    [
+     "EN",
+     "The mess doesn't serve chaas. Your bag does.",
+     ""
+    ],
+    [
+     "EN",
+     "Plot twist: your hostel has chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "Hostel life hack: chaas in your pocket.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "name": "PG MIXER",
+   "scene": "Split poster. Left: a dirty mixer jar full of foam with a big question mark above it. Right: a bright yellow side with the pouch, two sachets, a shaker bottle and a steel tumbler of chaas.",
+   "new": false,
+   "c": [
+    [
+     "HG",
+     "PG mein mixer kaun dhoyega?",
+     "current"
+    ],
+    [
+     "HG",
+     "Aaj mixer ki chhutti.",
+     ""
+    ],
+    [
+     "HG",
+     "Mixer ko chhutti. Chaas sachet se.",
+     ""
+    ],
+    [
+     "EN",
+     "Not today, mixer.",
+     ""
+    ],
+    [
+     "EN",
+     "The mixer jar isn't washing itself.",
+     ""
+    ],
+    [
+     "EN",
+     "Chaas, not chaos.",
+     ""
+    ],
+    [
+     "EN",
+     "Nobody's washing that mixer.",
+     ""
+    ],
+    [
+     "EN",
+     "Skip the mixer. Sip the chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "No mixer. No mess. Just chaas.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "name": "ROOM 204 NOTE",
+   "scene": "Warm hostel-room still life. A steel tumbler of chaas carries a handwritten masking-tape note (the headline is the note); two sachets, a notebook and pen, the pouch behind.",
+   "new": false,
+   "c": [
+    [
+     "HG",
+     "ROOM 204 KI CHAAS. HAATH MAT LAGANA.",
+     "current"
+    ],
+    [
+     "HG",
+     "Isme se ek bhi sachet gaya toh...",
+     ""
+    ],
+    [
+     "HG",
+     "Roommate, ye mera hai.",
+     ""
+    ],
+    [
+     "EN",
+     "ROOM 204'S CHAAS. HANDS OFF.",
+     ""
+    ],
+    [
+     "EN",
+     "Property of Room 204. Do not touch.",
+     ""
+    ],
+    [
+     "EN",
+     "Hands off. It's labelled.",
+     ""
+    ],
+    [
+     "EN",
+     "Touch it and we're not roommates.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "name": "MEETING BREAK",
+   "scene": "Overhead desk flat-lay. Two hands clink two steel tumblers of chaas above a notepad, an ID lanyard and a laptop edge; the pouch and three sachets lie on the desk.",
+   "new": false,
+   "c": [
+    [
+     "HG",
+     "Meeting khatam. Chaaaas break!!!",
+     "current"
+    ],
+    [
+     "HG",
+     "Meeting khatam. Chaas shuru.",
+     ""
+    ],
+    [
+     "HG",
+     "Office mein bhi chaas break.",
+     ""
+    ],
+    [
+     "EN",
+     "This meeting could've been an email. This chaas couldn't.",
+     ""
+    ],
+    [
+     "EN",
+     "Meeting over. Chaas on.",
+     ""
+    ],
+    [
+     "EN",
+     "Chaas break. You've earned it.",
+     ""
+    ],
+    [
+     "EN",
+     "Your desk called. It wants chaas.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "name": "ROAD TRIP",
+   "scene": "A packed backpack in an open car boot with the pouch and sachets tucked inside; a steel tumbler of chaas and a bottle beside it; a sunny highway behind.",
+   "new": false,
+   "c": [
+    [
+     "HG",
+     "Road trip? Chaas pack hai.",
+     "current"
+    ],
+    [
+     "HG",
+     "Boot mein bag. Bag mein chaas.",
+     ""
+    ],
+    [
+     "HG",
+     "Road trip ka plan: chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "Road trip? Chaas is packed.",
+     ""
+    ],
+    [
+     "EN",
+     "Pack light. Pack chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "Packed: playlist, snacks, chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "The boot has room for chaas.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "name": "20 PACK (OFFER)",
+   "scene": "Blue poster. Two hands reach for the same sachet in a pile of about 20 sachets; a glass of chaas stands on the left; a burst reads \"20 SACHET Rs 529\" and a pill reads \"5% OFF PREPAID. CODE PREPAY5\".",
+   "new": false,
+   "c": [
+    [
+     "HG",
+     "Sachet kam padenge? 20 ka pack lo.",
+     "current"
+    ],
+    [
+     "HG",
+     "Apna bhi, dost ka bhi: 20 sachet.",
+     ""
+    ],
+    [
+     "HG",
+     "Roommate ka bhi hisaab. 20 ka pack.",
+     ""
+    ],
+    [
+     "EN",
+     "Roommates exist. Get 20.",
+     ""
+    ],
+    [
+     "EN",
+     "Stop stealing his chaas. Get 20.",
+     ""
+    ],
+    [
+     "EN",
+     "Two hands. One sachet. Get 20.",
+     ""
+    ],
+    [
+     "EN",
+     "10 won't last. Get 20.",
+     ""
+    ],
+    [
+     "EN",
+     "Share or stash? Get 20.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "name": "MUMMY CHAT",
+   "scene": "A hand holds a phone showing a three-bubble chat beside the pouch and one sachet on a wooden desk. Staged skit, no names, no review styling. Each candidate is the whole three-bubble exchange.",
+   "new": false,
+   "c": [
+    [
+     "HG",
+     "Mummy: Khana kha liya? / Me: Haan. Chaas bhi. Khud banayi, sachet se. / Mummy: Beta bada ho gaya.",
+     "current"
+    ],
+    [
+     "EN",
+     "Mummy: Did you eat? / Me: Yes. Made chaas too. / Mummy: You made it? / Me: Sachet. Water. Shake.",
+     ""
+    ],
+    [
+     "EN",
+     "Mummy: Did you eat? / Me: Yes. Chaas too. Made it myself. / Mummy: Who is this and what did you do with my child?",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "name": "GHAR DOOR",
+   "scene": "A window sill at dusk with city lights; a steel tumbler of chaas, the pouch and a sachet are within reach. Feeling only, never a taste claim.",
+   "new": false,
+   "c": [
+    [
+     "HG",
+     "Ghar door. Chaas paas.",
+     "current"
+    ],
+    [
+     "HG",
+     "Ghar se door. Chaas se nahi.",
+     ""
+    ],
+    [
+     "HG",
+     "Door sheher, apni chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "Home is far. Chaas isn't.",
+     ""
+    ],
+    [
+     "EN",
+     "Far from home. Close to chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "Away from home. Not away from chaas.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "name": "MESS THALI",
+   "scene": "A dull steel mess thali (rice, dal, roti) against a bright steel tumbler of chaas and the pouch with two sachets; a small supporting line sits at the bottom.",
+   "new": false,
+   "c": [
+    [
+     "HG",
+     "Mess ka khana. Apni chaas.",
+     "current"
+    ],
+    [
+     "HG",
+     "Mess mein dal. Room mein chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "Mess dinner. Own chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "The mess has dal. You have chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "Dal, rice, chaas. Sorted.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "name": "BAG OF SACHETS",
+   "scene": "Blue poster. A backpack spills sachets, with the pouch and a steel tumbler of chaas beside it; a bottom strip reads \"10 sachet | 10 glass | Rs 279\".",
+   "new": false,
+   "c": [
+    [
+     "HG",
+     "Bag mein chaas ki dukaan.",
+     "current"
+    ],
+    [
+     "HG",
+     "Bag mein chaas, bottle mein paani.",
+     ""
+    ],
+    [
+     "HG",
+     "10 glass. Ek pocket.",
+     ""
+    ],
+    [
+     "EN",
+     "10 glasses. One pocket.",
+     ""
+    ],
+    [
+     "EN",
+     "A chaas shop in your bag.",
+     ""
+    ],
+    [
+     "EN",
+     "Your bag now has a chaas counter.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "name": "EQUATION",
+   "scene": "NEW picture idea. Flat colour poster drawn as an equation: a sachet, plus a glass of water, equals a glass of chaas. Defines the product for a stranger.",
+   "new": true,
+   "c": [
+    [
+     "EN",
+     "Sachet + water = chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "1 sachet + water = 1 glass of chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "The easiest maths you'll do today.",
+     ""
+    ],
+    [
+     "HG",
+     "Ek sachet + paani = ek glass chaas.",
+     ""
+    ],
+    [
+     "HG",
+     "Chaas ka formula: sachet + paani.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "name": "BHAI CHAAS HAI",
+   "scene": "NEW picture idea. Two friends at a table; one asks, the other pulls a sachet out of a bag; the pouch stands on the table.",
+   "new": true,
+   "c": [
+    [
+     "HG",
+     "Bhai, chaas hai? Haan. Bag mein.",
+     ""
+    ],
+    [
+     "HG",
+     "Chaas chahiye? Bag mein hai.",
+     ""
+    ],
+    [
+     "EN",
+     "Got chaas? Always.",
+     ""
+    ],
+    [
+     "EN",
+     "Got chaas? Check the bag.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "name": "POCKET SIZE",
+   "scene": "NEW picture idea. A hand holds one slim sachet like a pen against a flat colour field, the pouch behind it. Uses the verified \"pocket-size sachet\".",
+   "new": true,
+   "c": [
+    [
+     "EN",
+     "Chaas that fits your pocket.",
+     ""
+    ],
+    [
+     "EN",
+     "Pocket-sized chaas.",
+     ""
+    ],
+    [
+     "EN",
+     "Chaas, now pocket-sized.",
+     ""
+    ],
+    [
+     "HG",
+     "Jeb mein chaas.",
+     ""
+    ],
+    [
+     "HG",
+     "Chaas ab jeb mein.",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "name": "LOUD SHOUT",
+   "scene": "NEW picture idea. A big pile of sachets with a chaas splash, one stretched-letter shout over it (the approved \"SOOOOOOOO MUCH WATER!!!\" energy).",
+   "new": true,
+   "c": [
+    [
+     "EN",
+     "SOOOO MUCH CHAAS!!!",
+     ""
+    ],
+    [
+     "EN",
+     "CHAAAAAS!!!",
+     ""
+    ]
+   ]
+  },
+  {
+   "n": 18,
+   "name": "NO X, JUST Y",
+   "scene": "NEW picture idea. Blue type-led poster with a glass and the pouch; the headline is three bold lines.",
+   "new": true,
+   "c": [
+    [
+     "HG",
+     "Dahi nahi. Mixer nahi. Jhanjhat nahi.",
+     ""
+    ],
+    [
+     "HG",
+     "Dahi set karne ka time nahi.",
+     ""
+    ],
+    [
+     "EN",
+     "No dahi to set. No mixer to wash.",
+     ""
+    ],
+    [
+     "EN",
+     "Chaas without the chores.",
+     ""
+    ],
+    [
+     "EN",
+     "Chaas. Minus the mess.",
+     ""
+    ],
+    [
+     "EN",
+     "Skip the setting. Skip the mixing. Sip.",
+     ""
+    ]
+   ]
+  }
+ ],
+ "sublines": [
+  [
+   "EN",
+   "Tear. Add water. Shake.",
+   "the pack directions, verbatim from the site"
+  ],
+  [
+   "EN",
+   "Tear. Shake. Sip.",
+   ""
+  ],
+  [
+   "EN",
+   "Sachet. Water. Shake.",
+   ""
+  ],
+  [
+   "EN",
+   "One sachet. One glass.",
+   ""
+  ],
+  [
+   "HG",
+   "Sachet kholo. Paani milao. Shake karo.",
+   ""
+  ],
+  [
+   "HG",
+   "Ek sachet, ek glass.",
+   "current"
+  ]
+ ]
+}

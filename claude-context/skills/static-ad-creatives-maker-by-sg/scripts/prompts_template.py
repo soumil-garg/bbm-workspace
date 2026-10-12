@@ -1,4 +1,5 @@
-"""Prompt builder template. Copy to C:\\cca\\<brand>\\prompts.py, fill BRAND, write one entry per creative.
+"""LEGACY (v2): for new rounds use scripts/whole_ad.py with an ads_config.json (references/whole-ad-recipe.md).
+Prompt builder template. Copy to C:\\cca\\<brand>\\prompts.py, fill BRAND, write one entry per creative.
 Run: python prompts.py  -> writes p\\<ID>.txt (one paragraph each).
 
 ID scheme: <funnel><n>_<system>_<name>  e.g. C3_F_GroupPhoto (top funnel concept 3, face+gaze), B4_N_Cart (bottom funnel 4, native).

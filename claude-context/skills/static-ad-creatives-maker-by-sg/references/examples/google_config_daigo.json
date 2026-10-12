@@ -1,0 +1,30 @@
+{
+  "_note": "Example config for scripts/google_pull.py, from the Daigo run of 2026-10-09 (instant chaas premix, India). Replace the seeds with the problem words, category words and brand words of the new brand.",
+  "brand": "daigo",
+  "out_dir": "C:/cca/daigo/research/google/",
+  "autosuggest": {
+    "country": "in",
+    "lang": "en",
+    "seeds": {
+      "problem": ["garmi mein kya piye", "summer drink india", "thanda kya piye", "what to drink in summer india", "cold drink alternative", "cola alternative healthy", "healthy cold drink india", "what to drink instead of coke", "sugar free cold drink india", "stomach heavy after lunch", "acidity after lunch", "afternoon slump drink", "office drink healthy", "what to eat in train", "train mein kya khaye", "travel food india train", "airport food price india", "hostel food bad", "pg food problem", "what to drink while travelling", "electrolyte drink india", "dehydration drink home remedy", "drink for heat stroke", "miss ghar ka khana", "ghar ka khana kahin bhi", "what to drink after heavy lunch"],
+      "category": ["chaas", "buttermilk", "masala chaas", "chaas powder", "buttermilk powder", "instant chaas", "chaas premix", "buttermilk premix", "jaljira", "jaljeera drink", "jaljeera powder", "chaas masala", "ors drink", "sattu drink", "sattu premix", "shikanji", "nimbu pani powder", "lassi powder", "instant drink mix", "electrolyte powder", "protein buttermilk", "probiotic drink", "packaged buttermilk", "tetra pack buttermilk", "chhaas", "mattha"],
+      "brand": ["daigo", "daigo chaas", "daigo buttermilk", "daigolife", "pod nutrition", "pod nutrition chaas", "jimri chaas masala", "jyoti ben chaas masala", "amul masti buttermilk", "tang drink", "rasna", "glucon d", "electral", "fast and up reload"]
+    },
+    "modifiers": [" price", " review", " benefits", " side effects", " recipe", " kaise banaye", " for travel", " in train", " vs lassi", " online", " near me", " protein", " gut health", " for weight loss", " at night", " in winter", " vrat", " navratri", " sendha namak", " jain", " for kids", " for diabetics", " fayde", " with dahi", " without dahi"],
+    "modifier_seeds": ["chaas", "buttermilk", "instant chaas", "buttermilk powder", "chaas premix", "jaljeera", "daigo", "pod nutrition chaas"],
+    "letter_seeds": ["chaas", "buttermilk", "instant chaas", "buttermilk powder", "jaljeera", "daigo", "pod nutrition", "chaas premix", "electrolyte drink"],
+    "tags": {"brand": "daigo|pod |amul|jimri|jyoti|tang|rasna|glucon|electral|fast and up|nestle|mother dairy|everest|mdh|catch"}
+  },
+  "serp": {
+    "country_code": "in",
+    "language_code": "en",
+    "cap": "0.50",
+    "queries": ["buttermilk benefits", "chaas benefits", "is chaas good at night", "chaas vs curd", "chaas vs lassi", "buttermilk for acidity", "buttermilk after lunch", "buttermilk in summer", "protein buttermilk", "amul protein buttermilk review", "pod nutrition chaas review", "daigo chaas review", "instant chaas review", "buttermilk powder review", "chaas masala powder best brand", "jaljeera benefits", "jaljeera powder", "what to drink in summer", "healthy cold drink alternatives", "train mein kya khaye", "food to carry on train", "hostel food ideas", "office lunch ideas india", "sleepy after lunch", "ors vs electrolyte", "electral vs ors", "navratri fasting drinks", "vrat mein kya piye", "sendha namak chaas", "chaas in navratri", "chaas for weight loss", "buttermilk for digestion", "buttermilk gas bloating", "probiotic drinks india", "gut health drinks india", "sattu drink benefits", "nimbu pani benefits", "coke alternative india", "sugar free drinks india", "protein drinks india vegetarian"]
+  },
+  "trends": {
+    "geo": "IN",
+    "time_range": "today 5-y",
+    "cap": "0.30",
+    "compare": ["buttermilk, chaas, jaljeera, chaas powder, instant chaas", "protein buttermilk, buttermilk, chaas, amul protein buttermilk, pod nutrition"]
+  }
+}

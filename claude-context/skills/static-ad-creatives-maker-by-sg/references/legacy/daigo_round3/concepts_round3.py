@@ -1,0 +1,81 @@
+# Concept bodies for Daigo round 3. Each body = the art direction for ONE whole ad: scene, product placement, the headline text and its treatment, the supporting line.
+# Rule behind every concept (Soumil, 10 Oct): the headline, the picture and the product tell ONE story; the product takes part in it.
+TOP = " The first line of the headline starts at least 9% below the top edge."
+C = {}
+
+C['A_Steps'] = dict(body=(
+    "CONCEPT: the three steps of making Daigo chaas, as a bold poster. Background: a flat saturated fresh-green colour field (#84B355) with a very subtle lighter vignette behind the hero. "
+    "HEADLINE (left column, huge, stacked on four lines, all caps, heavy condensed grotesque sans-serif like Anton or Impact, tight tracking, deep navy #1C2F6B with a thin white outline): PHAADO. / DAALO. / HILAO. and then CHAAS. in white on a deep-navy highlight bar with a small yellow underline swoosh beneath the bar. "
+    "Small warm-yellow #F2C41E filled circles with a navy numeral 1, 2, 3 sit just to the left of the first three words. The four lines fill the left 55% of the width from about 9% to 62% of the height." + TOP + " "
+    "RIGHT SIDE AND LOWER HALF (the picture that proves the words): a slim Daigo sachet with its top torn open is tilted about 40 degrees above a clear plastic shaker bottle, its printed blue front with the white daigo wordmark facing the viewer and readable (not upside down), and a fine stream of cream-white powder with tiny green flecks falls into the shaker bottle; "
+    "the shaker bottle with a black lid stands on a glossy surface at the lower centre with a little milky chaas inside, a tall steel tumbler of pale creamy chaas with condensation and a coriander sprig stands beside it, the real Daigo pouch stands upright behind them on the right, and three more branded sachets lie fanned in front. "
+    "All objects sit on one glossy reflective surface in deep blue with soft reflections and soft shadows. A few powder particles float in the air. Small supporting line at the very bottom in navy: Ek sachet, ek glass."))
+
+C['B_Rs28'] = dict(body=(
+    "CONCEPT: the price per glass, as a studio hero poster. Background: a deep royal-blue gradient studio backdrop (#204898 to a darker #14306B at the edges) with a soft spotlight pool of lighter blue behind the product and a faint radial sunburst of light rays. "
+    "HEADLINE at the top, huge, all caps, heavy condensed grotesque sans-serif, tight tracking: RS 28 in warm yellow #F2C41E at about 16% of the canvas height, and below it KA GLASS. in white at about 8% of the canvas height, both with a soft darker drop shadow." + TOP + " "
+    "HERO in the centre and lower half: one tall clear glass of pale creamy chaas with condensation, tiny green herb flecks, a few roasted cumin specks and a coriander sprig on top, standing on a glossy deep-blue surface with a clean reflection; "
+    "behind and to the right the real Daigo pouch stands upright, slightly turned; to the left a small group of three branded Daigo sachets stands leaning together, a wooden bowl of brown spice powder and fresh coriander sit in front. All lit with the same soft top-left key light and a blue rim light. "
+    "A white rounded pill near the bottom centre containing, in navy: 10 sachet. Rs 279."))
+
+C['C_Ticket'] = dict(body=(
+    "CONCEPT: a visual pun on a confirmed train ticket and confirmed chaas, as a clean poster. Background: a flat warm-yellow colour field (#F2C41E) with a faint paper texture. "
+    "HEADLINE at the top, huge, all caps, heavy condensed grotesque sans-serif, tight tracking: TICKET CONFIRM. in deep navy #1C2F6B on the first line and CHAAS CONFIRM. in white on the second line, the second line set on a navy highlight bar that runs behind the whole line." + TOP + " "
+    "HERO in the middle and lower half: a long cream-coloured Indian railway ticket slip with a perforated edge, lying at a slight angle, showing a big green rubber-stamp style label CNF in its top corner and otherwise only abstract grey bars for text (no readable words, no numbers); "
+    "the real Daigo pouch leans against the ticket on the right, in front of it one branded Daigo sachet lies across the ticket like a second travel document, and a tall steel tumbler of pale creamy chaas with condensation and a coriander sprig stands on the left. "
+    "Everything sits on a surface in the same yellow with soft shadows, lit by one soft key light from the top left. Small supporting line at the bottom in navy: Sachet phaado. Paani daalo. Hilao."))
+
+C['D_Hostel'] = dict(body=(
+    "CONCEPT: a smug hostel student scoffing at the idea of curd in a hostel, as a studio portrait poster with the headline BEHIND him for depth. Background: a flat warm cream colour field (#ECE2CB) with a soft vignette. "
+    "A young Indian man of about 21 in a royal-blue hoodie (#204898) stands centre-right, waist-up, lit by soft studio light, one eyebrow raised and a smirk, looking straight at the camera; in one hand, held at chest height and angled to the camera, the real Daigo pouch; "
+    "in the other hand a steel tumbler of pale creamy chaas with condensation, raised slightly towards us; two branded Daigo sachets are tucked into his hoodie's front pocket. Believable hands with five fingers each. "
+    "HEADLINE: huge, all caps, heavy condensed grotesque sans-serif, tight tracking, set across the upper third ABOVE his head, completely readable with no letter hidden or overlapped by him (he stands lower in the frame so his head, hair and hands never touch the lettering): HOSTEL MEIN DAHI? in deep navy #1C2F6B on the first line, MAZAAK MAT KARO. on the second line in white on a bright-yellow #F2C41E highlight bar." + TOP + " Small supporting line at the bottom in navy: Sachet phaado. Paani daalo. Hilao."))
+
+C['E_PG'] = dict(body=(
+    "CONCEPT: the pain of washing a mixer in a PG kitchen versus a sachet, as a bold split poster. The canvas is split into two halves by a diagonal line from top-left to bottom-right. "
+    "Left half: a dull cool-grey background; on a steel counter stands a used Indian mixer-grinder jar (clear plastic jar with a steel blade base) with dried curd residue inside and a few soap suds, looking tired. "
+    "Right half: a bright warm-yellow background (#F2C41E) with the real Daigo pouch, a clear shaker bottle with chaas, a steel glass of chaas and two branded sachets, clean and bright, soft studio light. "
+    "HEADLINE across the top spanning both halves, huge, all caps, heavy condensed sans-serif: PG MEIN MIXER on the first line in white with a soft dark shadow, KAUN DHOYEGA? on the second line in deep navy #1C2F6B on a white highlight bar." + TOP + " "
+    "A big navy question mark floats above the mixer jar. Small supporting line at the bottom right in navy: Sachet phaado. Paani daalo. Hilao."))
+
+C['F_Room204'] = dict(body=(
+    "CONCEPT: a roommate-proof stash, as a native still life photographed on a steel hostel shelf in warm tungsten light. A steel tumbler of pale creamy chaas stands in the centre-left with a strip of beige masking tape across the front, handwritten in thick black marker in two lines of block capitals, slightly uneven like real handwriting, large and easy to read, exactly, every letter a capital letter including the K and the I of KI: ROOM 204 KI CHAAS. then on the second line: HAATH MAT LAGANA. "
+    "Next to the tumbler a neat stack of branded Daigo sachets, and the real Daigo pouch leans against the wall behind them. A checked bedsheet and a cupboard softly blurred in the background, shallow depth of field, warm moody light, a hint of film grain. A plain unmarked notebook and a pen at the bottom left; no book spines, titles or labels anywhere. The tape note is the only headline; there is no other text."))
+
+C['G_Meeting'] = dict(body=(
+    "CONCEPT: meeting over, chaas break, as a clean overhead flat-lay poster. Background: an office desk seen from straight above in pale blue-grey (#DCE4F4) with soft shadows. "
+    "Objects: a closed silver laptop at the top left, a spiral notebook with a pen, an ID lanyard, two steel tumblers of pale creamy chaas with condensation in the centre as if two colleagues just clinked, the real Daigo pouch on the right, three branded sachets fanned in front, a small coriander sprig. "
+    "HEADLINE across the top, huge, all caps, heavy condensed grotesque sans-serif, tight tracking: line 1 MEETING KHATAM. in navy #1C2F6B; line 2 CHAAAAS BREAK!!! in warm yellow #F2C41E with a navy outline stroke and a drop shadow, the A letters visibly stretched wide." + TOP + " No other text."))
+
+C['H_Road'] = dict(body=(
+    "CONCEPT: road trip, chaas packed, as a bright travel poster. Scene: the open boot of a hatchback parked on a highway shoulder under a bright blue sky, a canvas backpack open in the boot with the real Daigo pouch and several branded sachets tucked inside the open top, "
+    "a steel tumbler of pale creamy chaas with condensation standing on the bumper next to a clear water bottle, an open stretch of highway and a charpai under a thatched shade softly out of focus behind (no signboards, no readable signs), warm sunlight. No people. "
+    "HEADLINE across the top over the sky, huge, all caps, heavy condensed sans-serif: ROAD TRIP? in white on the first line with a soft dark shadow; CHAAS PACK HAI. in warm yellow #F2C41E on the second line with a navy outline." + TOP + " No other text."))
+
+C['I_20pack'] = dict(body=(
+    "CONCEPT: roommates competing for the stash, as an offer poster. Background: a flat deep-navy field (#1C2F6B) with a soft lighter spot behind the hero. "
+    "HERO: a tidy heap of about twenty branded Daigo sachets piled like a small pyramid in the centre on a glossy surface, two hands from opposite sides (one from the left in a grey hoodie sleeve, one from the right in a white shirt sleeve) both reaching for the same sachet at the top of the pile; the real Daigo pouch stands behind the pile. Believable hands with five fingers each. "
+    "HEADLINE at the top, huge, all caps, heavy condensed sans-serif: SACHET KAM PADENGE? in white on the first line, 20 KA PACK LO. in warm yellow #F2C41E on the second line." + TOP + " "
+    "A round warm-yellow sticker (burst) at the lower right, slightly rotated, with a white outline, containing in navy: 20 SACHET and below it, larger, Rs 529. Under the sticker a small white pill containing in navy: 5% OFF PREPAID. CODE PREPAY5"))
+
+C['K_Chat'] = dict(body=(
+    "CONCEPT: Mummy's text, as a native phone-screen poster. A hand-held smartphone photographed straight on in a cosy hostel room at night, warm lamp light, the screen showing a messaging chat with exactly three message bubbles and nothing else (no names, no avatars, no status icons, no keyboard): "
+    "bubble 1 on the left, white: Khana kha liya? ; bubble 2 on the right, soft green: Haan. Chaas bhi. Khud banayi, sachet se. ; bubble 3 on the left, white: Beta bada ho gaya. "
+    "Beside the phone on the desk: the real Daigo pouch standing, a steel tumbler of pale creamy chaas with condensation, and one branded sachet. Shallow depth of field, soft film grain. The chat is the headline; there is no other text."))
+
+C['L_GharDoor'] = dict(body=(
+    "CONCEPT: missing home, as a quiet blue-hour still life. A PG window sill at dusk, a city skyline with warm lights in the soft background, a curtain edge; on the sill a steel glass of pale creamy chaas with condensation, the real Daigo pouch standing beside it and one branded sachet lying in front, a warm lamp glow lighting them. "
+    "HEADLINE across the upper sky, huge, all caps, heavy condensed grotesque sans-serif, tight tracking: GHAR DOOR. in white on the first line, CHAAS PAAS. in warm yellow #F2C41E on the second line, both with a soft dark shadow." + TOP + " No other text."))
+
+C['M_Mess'] = dict(body=(
+    "CONCEPT: hostel mess food versus your own chaas, as a clean poster with a still life. Background: a flat warm-cream colour field (#ECE2CB) with soft shadows. "
+    "HERO in the lower two thirds: seen from slightly above, a steel hostel mess thali tray with its compartments holding a dull, plain meal (rice, a thin dal, one roti, a small pickle), looking tired; "
+    "right beside it, bright and lit, stand a tall steel tumbler of pale creamy chaas with condensation, the real Daigo pouch, and two branded Daigo sachets, so the eye jumps from the dull tray to the fresh tumbler. "
+    "HEADLINE at the top, huge, all caps, heavy condensed grotesque sans-serif, tight tracking: MESS KA KHANA. in deep navy #1C2F6B on the first line, APNI CHAAS. in white on a bright royal-blue #204898 highlight bar on the second line." + TOP + " "
+    "Small supporting line at the bottom in navy: Sachet phaado. Paani daalo. Hilao. No other text."))
+
+C['N_Bag'] = dict(body=(
+    "CONCEPT: a backpack that carries a whole chaas shop, as a bold poster in the structure of a proven bag-and-price ad. Background: a flat saturated royal-blue field (#204898) with a subtle lighter vignette. "
+    "HEADLINE at the top, huge, all caps, heavy condensed grotesque sans-serif, tight tracking: BAG MEIN CHAAS in white on the first line and KI DUKAAN. in warm yellow #F2C41E on the second line, both with a soft dark shadow." + TOP + " "
+    "HERO in the middle: an olive-green canvas backpack standing upright, its front pocket open and a cascade of branded Daigo sachets spilling out of it onto a glossy surface, the real Daigo pouch standing proudly beside the backpack, a steel tumbler of pale creamy chaas with condensation in front. "
+    "A solid deep-navy band across the bottom of the poster containing three equal parts separated by thin white rules, in white: 10 sachet | 10 glass | Rs 279. No other text."))

@@ -73,6 +73,13 @@ Each domain has an `Areas/<Domain>.md` in my vault — keep it as source of trut
 - **Multi-source research** — any "research X" = multiple sources + citations by default
 - Save research output to the vault; research that isn't saved is wasted
 
+## Meta ads build rules (every campaign, every brand, every chat)
+
+- **UTMs are mandatory on every ad, no exceptions.** URL parameters must be exactly `utm_campaign={{campaign.name}}&utm_content={{ad.name}}`. Never skip, never swap for `{{ad.id}}`. Verify it saved (open one ad, Tracking, URL parameters) before reporting done.
+- **How to set UTMs (learned on Savvy, 2026-10-01):** Pipeboard `create_ad_creative`/`update_ad_url_tags` takes `url_tags` but Pipeboard's free plan runs out. The official Meta connector (`ads_create_creative`) has NO url_tags field and creatives are immutable. Reliable routes: (1) `ads_create_ad` with an inline `creative` JSON containing `"url_tags"` plus `object_story_spec`; (2) after the ads exist, Ads Manager bulk edit in a logged-in Chrome (Browser 2): select all ads, Edit, Tracking, URL parameters, Publish (ads stay off). Do not hunt for Meta tokens.
+- **Creative files go through Dropbox, always.** Put images/videos in `C:\Users\soumi\Dropbox\Apps\BBM Creatives\<client>` (Pipeboard's Dropbox is that local one) and import with `create_creatives_from_dropbox_folder` or `upload_ad_video_file`. Restart Dropbox.exe if sync hangs. Details in memory `reference_dropbox_meta_upload`.
+- Build ads PAUSED, number the creatives, verify, then report.
+
 ## Standing orders
 
 - **At the start of every session, automatically read `C:\Users\soumi\Documents\Vault\CLAUDE.md` and today's daily note at `C:\Users\soumi\Documents\Vault\Daily Notes\<YYYY-MM-DD>.md`.** Do this without being asked, regardless of which directory Claude was opened in.

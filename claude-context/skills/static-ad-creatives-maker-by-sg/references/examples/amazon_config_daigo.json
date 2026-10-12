@@ -1,0 +1,17 @@
+{
+  "_note": "Example config for scripts/amazon_pull.py, from the Daigo run of 2026-10-09. asin_csv comes from the competitor research agent (columns asin,title,brand,group,url,rating,ratings_count,source). depth_test_asin = the listing with the most ratings.",
+  "brand": "daigo",
+  "out_dir": "C:/cca/daigo/research/amazon/",
+  "asin_csv": "C:/cca/daigo/research/competitors/asin_list.csv",
+  "domain": "amazon.in",
+  "domain_code": "in",
+  "depth_test_asin": "B09CLB5D51",
+  "depth_pass_min_unique": 25,
+  "big_min_ratings": 100,
+  "deep_top_n": 8,
+  "ext_min_ratings": 8,
+  "force_asins": ["B0H25JKGVR", "B09RV7CWFG"],
+  "group_priority": {"instant_chaas": 0, "packaged_buttermilk": 1, "chaas_masala_powder": 2, "jaljeera_drink": 3, "instant_drink_mix": 3, "sattu_drink": 4, "ors_electrolyte": 4, "desi_soda": 5},
+  "key_asins": ["B0FB9NJ26X", "B0FB9NNV3S", "B0FCG3X6X8", "B0FB9PR9G9", "B0GZGMSR7L", "B0H25JKGVR", "B09RV7CWFG", "B09RV8YWWT"],
+  "max_reviews_per_asin": 30
+}

@@ -1,0 +1,717 @@
+{
+ "out": "C:/cca/inspiration/swipe/pool",
+ "country": "US",
+ "per_brand": 30,
+ "today": "2026-10-09",
+ "brands": [
+  {
+   "name": "Snitch",
+   "role": "best",
+   "industry": "mens fashion",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "snitch"
+   ]
+  },
+  {
+   "name": "Bewakoof",
+   "role": "best",
+   "industry": "fashion",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "bewakoof"
+   ]
+  },
+  {
+   "name": "Lenskart",
+   "role": "best",
+   "industry": "eyewear",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "lenskart"
+   ]
+  },
+  {
+   "name": "CRED",
+   "role": "best",
+   "industry": "fintech",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "cred"
+   ]
+  },
+  {
+   "name": "Licious",
+   "role": "best",
+   "industry": "food delivery",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "licious"
+   ]
+  },
+  {
+   "name": "Man Matters",
+   "role": "best",
+   "industry": "mens wellness",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "man matters"
+   ]
+  },
+  {
+   "name": "Plum Goodness",
+   "role": "best",
+   "industry": "skincare",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "plum goodness"
+   ]
+  },
+  {
+   "name": "Sugar Cosmetics",
+   "role": "best",
+   "industry": "beauty",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "sugar cosmetics"
+   ]
+  },
+  {
+   "name": "WOW Skin Science",
+   "role": "best",
+   "industry": "skincare",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "wow skin science"
+   ]
+  },
+  {
+   "name": "Nykaa",
+   "role": "best",
+   "industry": "beauty retail",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "nykaa"
+   ]
+  },
+  {
+   "name": "boAt Lifestyle",
+   "role": "best",
+   "industry": "audio",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "boat lifestyle"
+   ]
+  },
+  {
+   "name": "Noise",
+   "role": "best",
+   "industry": "wearables",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "noise",
+    "gonoise"
+   ]
+  },
+  {
+   "name": "Mokobara",
+   "role": "best",
+   "industry": "luggage",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "mokobara"
+   ]
+  },
+  {
+   "name": "Giva",
+   "role": "best",
+   "industry": "jewellery",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "giva"
+   ]
+  },
+  {
+   "name": "Wakefit",
+   "role": "best",
+   "industry": "sleep",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "wakefit"
+   ]
+  },
+  {
+   "name": "BlueStone",
+   "role": "best",
+   "industry": "jewellery",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "bluestone"
+   ]
+  },
+  {
+   "name": "Ultrahuman",
+   "role": "best",
+   "industry": "wearables",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "ultrahuman"
+   ]
+  },
+  {
+   "name": "Paper Boat",
+   "role": "best",
+   "industry": "drinks",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "paper boat"
+   ]
+  },
+  {
+   "name": "The Souled Store",
+   "role": "best",
+   "industry": "fashion",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "the souled store"
+   ]
+  },
+  {
+   "name": "Rare Rabbit",
+   "role": "best",
+   "industry": "fashion",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "rare rabbit"
+   ]
+  },
+  {
+   "name": "Zepto",
+   "role": "best",
+   "industry": "quick commerce",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "zepto"
+   ]
+  },
+  {
+   "name": "Swiggy Instamart",
+   "role": "best",
+   "industry": "quick commerce",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "instamart",
+    "swiggy"
+   ]
+  },
+  {
+   "name": "Blinkit",
+   "role": "best",
+   "industry": "quick commerce",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "blinkit"
+   ]
+  },
+  {
+   "name": "Country Delight",
+   "role": "best",
+   "industry": "dairy",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "country delight"
+   ]
+  },
+  {
+   "name": "Pilgrim",
+   "role": "best",
+   "industry": "skincare",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "pilgrim"
+   ]
+  },
+  {
+   "name": "Dot & Key",
+   "role": "best",
+   "industry": "skincare",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "dot & key",
+    "dot and key"
+   ]
+  },
+  {
+   "name": "Bellavita",
+   "role": "best",
+   "industry": "fragrance",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "bellavita"
+   ]
+  },
+  {
+   "name": "Neemans",
+   "role": "best",
+   "industry": "footwear",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "neemans"
+   ]
+  },
+  {
+   "name": "Man Company",
+   "role": "best",
+   "industry": "mens grooming",
+   "country": "IN",
+   "page_id": null,
+   "tokens": [
+    "man company"
+   ]
+  },
+  {
+   "name": "Liquid Death",
+   "role": "best",
+   "industry": "drinks",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "liquid death"
+   ]
+  },
+  {
+   "name": "AG1",
+   "role": "best",
+   "industry": "supplements",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "ag1",
+    "athletic greens"
+   ]
+  },
+  {
+   "name": "Olipop",
+   "role": "best",
+   "industry": "drinks",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "olipop"
+   ]
+  },
+  {
+   "name": "Poppi",
+   "role": "best",
+   "industry": "drinks",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "poppi"
+   ]
+  },
+  {
+   "name": "Graza",
+   "role": "best",
+   "industry": "olive oil",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "graza"
+   ]
+  },
+  {
+   "name": "Our Place",
+   "role": "best",
+   "industry": "cookware",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "our place"
+   ]
+  },
+  {
+   "name": "Ridge",
+   "role": "best",
+   "industry": "wallets",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "ridge"
+   ]
+  },
+  {
+   "name": "Allbirds",
+   "role": "best",
+   "industry": "footwear",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "allbirds"
+   ]
+  },
+  {
+   "name": "Glossier",
+   "role": "best",
+   "industry": "beauty",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "glossier"
+   ]
+  },
+  {
+   "name": "Chubbies",
+   "role": "best",
+   "industry": "apparel",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "chubbies"
+   ]
+  },
+  {
+   "name": "Native",
+   "role": "best",
+   "industry": "deodorant",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "native"
+   ]
+  },
+  {
+   "name": "Harrys",
+   "role": "best",
+   "industry": "grooming",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "harry's",
+    "harrys"
+   ]
+  },
+  {
+   "name": "Dollar Shave Club",
+   "role": "best",
+   "industry": "grooming",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "dollar shave club"
+   ]
+  },
+  {
+   "name": "MUD WTR",
+   "role": "best",
+   "industry": "drinks",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "mud\\wtr",
+    "mud/wtr",
+    "mudwtr",
+    "mud wtr"
+   ]
+  },
+  {
+   "name": "Magic Spoon",
+   "role": "best",
+   "industry": "cereal",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "magic spoon"
+   ]
+  },
+  {
+   "name": "Huel",
+   "role": "best",
+   "industry": "nutrition",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "huel"
+   ]
+  },
+  {
+   "name": "Ritual",
+   "role": "best",
+   "industry": "supplements",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "ritual"
+   ]
+  },
+  {
+   "name": "Hims",
+   "role": "best",
+   "industry": "telehealth",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "hims"
+   ]
+  },
+  {
+   "name": "Casper",
+   "role": "best",
+   "industry": "sleep",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "casper"
+   ]
+  },
+  {
+   "name": "Warby Parker",
+   "role": "best",
+   "industry": "eyewear",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "warby parker"
+   ]
+  },
+  {
+   "name": "Away",
+   "role": "best",
+   "industry": "luggage",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "away"
+   ]
+  },
+  {
+   "name": "Brooklinen",
+   "role": "best",
+   "industry": "bedding",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "brooklinen"
+   ]
+  },
+  {
+   "name": "Blueland",
+   "role": "best",
+   "industry": "cleaning",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "blueland"
+   ]
+  },
+  {
+   "name": "Seed Health",
+   "role": "best",
+   "industry": "probiotics",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "seed"
+   ]
+  },
+  {
+   "name": "Feastables",
+   "role": "best",
+   "industry": "snacks",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "feastables"
+   ]
+  },
+  {
+   "name": "Prime Hydration",
+   "role": "best",
+   "industry": "drinks",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "prime"
+   ]
+  },
+  {
+   "name": "Oatly",
+   "role": "best",
+   "industry": "drinks",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "oatly"
+   ]
+  },
+  {
+   "name": "Siete Foods",
+   "role": "best",
+   "industry": "snacks",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "siete"
+   ]
+  },
+  {
+   "name": "Fly By Jing",
+   "role": "best",
+   "industry": "food",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "fly by jing"
+   ]
+  },
+  {
+   "name": "Athletic Brewing",
+   "role": "best",
+   "industry": "drinks",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "athletic brewing"
+   ]
+  },
+  {
+   "name": "Recess",
+   "role": "best",
+   "industry": "drinks",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "recess"
+   ]
+  },
+  {
+   "name": "Ghost Lifestyle",
+   "role": "best",
+   "industry": "supplements",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "ghost"
+   ]
+  },
+  {
+   "name": "Thrive Market",
+   "role": "best",
+   "industry": "grocery",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "thrive market"
+   ]
+  },
+  {
+   "name": "Bombas",
+   "role": "best",
+   "industry": "apparel",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "bombas"
+   ]
+  },
+  {
+   "name": "Gymshark",
+   "role": "best",
+   "industry": "apparel",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "gymshark"
+   ]
+  },
+  {
+   "name": "Vuori",
+   "role": "best",
+   "industry": "apparel",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "vuori"
+   ]
+  },
+  {
+   "name": "Lovevery",
+   "role": "best",
+   "industry": "toys",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "lovevery"
+   ]
+  },
+  {
+   "name": "HelloFresh",
+   "role": "best",
+   "industry": "meal kits",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "hellofresh"
+   ]
+  },
+  {
+   "name": "Mid-Day Squares",
+   "role": "best",
+   "industry": "snacks",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "mid-day",
+    "midday"
+   ]
+  },
+  {
+   "name": "Gruns",
+   "role": "best",
+   "industry": "supplements",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "gruns"
+   ]
+  },
+  {
+   "name": "O Positive",
+   "role": "best",
+   "industry": "supplements",
+   "country": "US",
+   "page_id": null,
+   "tokens": [
+    "o positive"
+   ]
+  }
+ ]
+}

@@ -6,7 +6,7 @@ First decide category familiarity (SKILL.md Stage 0). If the category is known (
 - **Hook set:** the recognition, enemy, mechanism and curiosity concepts below. These assume the viewer knows the product type, so treat them as problem-aware / middle-of-funnel for new categories.
 The Habbits concepts below are hooks from a known category.
 - Concepts (Habbits round 1): "One tube won't do it", "No, it won't work in 1 day", "Zoomed into the group photo", "Stop putting lemon on your teeth", "The black powder everyone doubts", WhatsApp family.
-- Formats: native (notes, chat), real people with gaze, bold type, ugly slot, product-hero contrast.
+- Formats: native (a chat, a tape note, notes), bold type, product-hero contrast, a loud or funny slot; a person only when the idea needs one.
 - Offer/deal appears as a small pill, not the headline (if client mandates a deal).
 - Test order (from the testing-engine plan): offer (core promise) first, then angle, then format, then execution.
 
@@ -21,7 +21,7 @@ Audience knows the brand. Goal: highlight the offer as clearly as possible.
 - Do not use problem-agitation or heavy proof; they belong upstream.
 
 ## Sizes and placements
-1:1 (1254x1254 from ChatGPT) for Feed. For Stories/Reels make 9:16 only for approved winners, as ONE ad with placement asset customization (see Stage 10).
+4:5 (1024x1280 from the model, delivered 1080x1350) for Feed. For Stories/Reels make 9:16 only for approved winners, as ONE ad with placement asset customization (see Stage 10).
 
 ## Sets to produce by default
-Both funnels: 6 TOF concepts x 2-3 systems, 6 BOF creatives. Recommend 3 BOF (cart, combos, native sign) and one per TOF concept.
+Both funnels (v3): 12 to 15 pictures, one picture per concept (both languages offered at Gate 2; a language A/B on one picture is an optional test). Recommend one picture per TOF concept and 3 to 4 BOF offer pictures.

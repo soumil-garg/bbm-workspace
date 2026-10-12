@@ -1,0 +1,22 @@
+{
+  "taste_bad": "Does the reviewer say the product tasted bad, bitter, stale, artificial, chemical, too salty, too sour or too sweet? Answer no if they say the taste was good or they do not talk about taste.",
+  "taste_good": "Does the reviewer say the product tasted good, tasty, refreshing or delicious? Answer no if they say it tasted bad or they do not talk about taste.",
+  "tastes_like_homemade": "Does the reviewer say the product tastes like, or reminds them of, homemade, home-style or real traditional chaas, buttermilk or the real drink? Answer no if they say it does not taste like the real thing or do not compare it to homemade.",
+  "not_like_real": "Does the reviewer say the product does not taste or feel like real homemade chaas, buttermilk or the real thing (artificial, fake, powdery, synthetic, not authentic)? Answer no if they say it tastes like the real thing or do not compare.",
+  "price_too_high": "Does the reviewer say the price is too high or the quantity is too small for the price, naming the price, the quantity or a cheaper alternative? Answer no for a bare 'waste of money' with no price, quantity or alternative named.",
+  "good_value": "Does the reviewer say the price is good, affordable or value for money? Answer no if they say it is too expensive or do not mention price.",
+  "mixing_or_texture_problem": "Does the reviewer say the product did not mix or dissolve well, left lumps, sediment or residue, separated, or was too thick, too thin, pasty or gritty? Answer no if they say it mixed well or do not mention texture.",
+  "easy_or_convenient": "Does the reviewer say the product is easy, quick, instant or convenient to prepare or carry? Answer no if they say it was hard or inconvenient or do not mention it.",
+  "used_while_travelling_or_on_the_go": "Does the reviewer say they use or would use the product while travelling, on a trip, in a train, flight or car, or on the go? Answer no otherwise.",
+  "refreshing_summer_heat": "Does the reviewer say the product is refreshing, cooling or good for summer or hot weather? Answer no if they do not say so.",
+  "helped_digestion_or_gut": "Does the reviewer say the product helped their digestion, acidity, bloating, gut or stomach? Answer no if they say it caused stomach trouble or do not mention it.",
+  "caused_stomach_trouble": "Does the reviewer say the product gave them stomach upset, acidity, gas, bloating, loose motions, an IBS flare-up or an allergy? Answer no if they do not say so.",
+  "spoiled_damaged_or_expired": "Does the reviewer say the product arrived spoiled, expired or close to expiry, leaking, damaged, with a broken seal, insects or foreign matter? Answer no if they only say the taste was bad.",
+  "fake_or_not_as_described": "Does the reviewer say the product is fake, adulterated, not original, or that its contents are not what the pack says (for example only salt)? Answer no for a plain taste complaint.",
+  "healthy_or_natural_praise": "Does the reviewer say the product is healthy, natural, pure, has no preservatives or good ingredients? Answer no if they say the opposite or do not mention it.",
+  "protein_mentioned": "Does the reviewer talk about the protein content of the product (liking it or complaining about it)? Answer no otherwise.",
+  "out_of_stock_or_hard_to_get": "Does the reviewer say the product is out of stock, not available regularly or hard to get? Answer no otherwise.",
+  "would_recommend": "Does the reviewer explicitly tell others to buy or try the product (for example 'recommend', 'must buy', 'try it')? Answer no for simple praise without telling others to buy.",
+  "would_not_recommend": "Does the reviewer explicitly tell others not to buy the product (for example 'do not buy', 'never buy', 'avoid')? Answer no for a plain complaint.",
+  "refund_or_return": "Does the reviewer say they returned the product or got or asked for a refund or replacement? Answer no otherwise."
+}

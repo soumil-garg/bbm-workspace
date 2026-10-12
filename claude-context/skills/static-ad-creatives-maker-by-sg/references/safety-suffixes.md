@@ -1,5 +1,7 @@
 # Universal safety suffixes (auto-appended to every image-ad prompt)
 
+**v3.0 note (2026-10-10):** the whole-ad prompt built by `scripts/whole_ad.py` already carries the equivalents (everything inside the central 84%, "No other text, no watermark, no fake UI", the exact count of chat bubbles written into the concept). This file documents the legacy `chatgpt-image-ad` family; for a chat concept also add the TEXT FIDELITY sentence below.
+
 Every generation script in the image-ad family (`chatgpt-image-ad`, `nano-banana-image-ad`) auto-appends three always-on guard suffixes to the user-supplied prompt. They are model-agnostic — they fix rendering failures that surface across **every** modern image model when generating static social-ad creatives.
 
 You do **not** need to repeat these constraints in your prompt library entries. The script handles them.

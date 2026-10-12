@@ -1,0 +1,59 @@
+{
+ "_about": "BLANK CONFIG for a new brand and round. Copy it to C:/cca/<brand>/<round>/ads_config.json and fill EVERY field; read ads_config.example.json (Daigo round 4, the loved set) beside it. validate refuses to run until the references exist and the Daigo content is gone. Fields: brand, round, dir, dest, tag_prefix, model, size, quality, palette (three brand hues with hex), finish (\"specular highlights and condensation\" for drinks, \"specular highlights\" for dry goods), small_line, refs (path + role sentence for each reference image: the clean pack, one per product form), ref_rules (four sentences, references/whole-ad-recipe.md section 4), neg_preset ([\"drink\"] or [\"powder\"] or []), neg_extra, neg_items (replaces the whole avoid list), banned_phrases (claim bans as regex; in JSON write \\\\b for a word boundary), required_texts (a client-mandated deal that must appear on every poster), offers_verified (offer, page, date: verified on the live site today), languages, concepts, delivery. Placeholders in bodies: {TOP} {SMALL}; {SKILL} in a path = the skill folder.",
+ "brand": "<Brand>",
+ "round": 1,
+ "dir": "C:/cca/<brand>/round1",
+ "dest": "C:/Users/soumi/OneDrive/Desktop/<Brand> Ads/Round 1",
+ "tag_prefix": "<brand>_r1",
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1024x1280",
+ "quality": "high",
+ "palette": "<colour name #hex>, <colour name #hex>, <colour name #hex>",
+ "finish": "specular highlights and condensation",
+ "small_line": "<the small supporting line that defines the product, e.g. what it is and how much it gives>",
+ "refs": [
+  {
+   "path": "C:/cca/<brand>/ref/pack_clean.png",
+   "role": "the REAL <Brand> <pack type> (use it as the product, keep it recognisable and correctly spelled)"
+  }
+ ],
+ "ref_rules": [
+  "Reproduce the <pack> faithfully from this reference: <every visible feature to keep: colours, wordmark and tagline, product name, flavour, the illustration>.",
+  "<Form rule: the shape and print of every product form that appears; never plain, never unbranded.>",
+  "Do not add any badge, seal, icon, claim or extra wording to the <pack> beyond what the reference shows.",
+  "The <pack> is sharp, large enough to read, lit by the same light as the scene, with contact shadows and believable perspective, physically part of the scene (standing, leaning, held or resting on surfaces), never a floating pasted-on cut-out."
+ ],
+ "neg_preset": [],
+ "neg_extra": [],
+ "banned_phrases": [],
+ "required_texts": [],
+ "offers_verified": [
+  {
+   "offer": "",
+   "page": "",
+   "date": ""
+  }
+ ],
+ "languages": [
+  "EN"
+ ],
+ "concepts": [
+  {
+   "id": "P01_Name",
+   "num": 1,
+   "lang": "EN",
+   "line": "",
+   "type": "poster",
+   "texts": [],
+   "body": "CONCEPT: <the idea in one sentence> as a <clean | bold | studio hero> poster. Background: <a flat colour field (#hex) with a faint texture | a studio sweep | a scene>. HEADLINE at the top, huge, all caps, heavy condensed grotesque sans-serif, tight tracking: <LINE 1> in <colour> on the first line and <LINE 2> in <colour> on the second line, <the treatment, e.g. set on a navy highlight bar that runs behind the whole line>.{TOP} HERO in the middle and lower half: <every object named with its state>; <where the real pack stands>; <the light>. Small supporting line at the bottom in navy: {SMALL} No other text."
+  }
+ ],
+ "delivery": [
+  {
+   "num": 1,
+   "id": "P01_Name",
+   "file": "01_Name_of_the_line",
+   "label": "short label for the sheet"
+  }
+ ]
+}

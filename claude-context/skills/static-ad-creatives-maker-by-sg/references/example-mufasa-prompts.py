@@ -1,3 +1,4 @@
+# LEGACY (v2) example for Mufasa Man: it carries review cards, comment threads and fake testimonials. Do not copy it for v3 rounds (see references/whole-ad-recipe.md and the Never list in SKILL.md).
 PRE = "Generate an image. The attached photo is the exact product reference (MUFASA MAN OUD deodorant stick: matte black cylinder, silver lion crest, white MUFASA MAN wordmark, OUD label). Reproduce the product and its label faithfully wherever it appears. "
 SUF = (" [NO PLATFORM CHROME] Render only the standalone ad creative, not a screenshot of how it displays in-feed. No device chrome, Sponsored labels, captions, engagement rows or buttons."
        " [EDGE-SAFE] All text and the product must fit within the central 84% of the canvas, about 8% padding from every edge. Backgrounds may bleed; text and focal elements may not touch or run off any edge."

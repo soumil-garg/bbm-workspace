@@ -5,7 +5,7 @@ metadata:
   type: project
 ---
 
-Soumil will use **Grok** for research purposes in future (planned for the market-research stage of the ad creative system, likely because it can see live X/web chatter). Not set up or integrated yet, and no details given on how.
+Soumil will use **Grok** for research purposes in future (planned for the market-research stage of the ad creative system; Soumil has NOT said why, so do not assume a reason and ask him. Facts: Grok has live X and web search through the xAI API, which suits social listening and competitor chatter, but its output is noisy and needs verification). Not set up or integrated yet, and no details given on how.
 
 **Why:** noted 2026-09-30 while packaging the ad creative skill. Current research (Amazon, Reddit via Arctic Shift, Ad Library) has gaps: YouTube comments freeze, Quora is low signal.
 

@@ -10,7 +10,7 @@ metadata:
 PostHog access for MeraHealth:
 
 - **Project ID:** 351010
-- **Personal API Key (phx_):** [REDACTED - dead key]
+- **Personal API Key (phx_):** [REDACTED]
 - **Capture Key (phc_):** phc_K3l2UMQYBL67Yn99WQ2xp9abaj8BaekIgPnLANPe0vV (write-only, for sending events)
 
 Use the `phx_` key for reading data via API. Base URL: `https://app.posthog.com`

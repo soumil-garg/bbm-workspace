@@ -1,0 +1,634 @@
+[
+ {
+  "name": "Zepto",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "zepto"
+  ]
+ },
+ {
+  "name": "Zomato",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "zomato"
+  ]
+ },
+ {
+  "name": "Paper Boat",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "paper boat"
+  ]
+ },
+ {
+  "name": "Lahori Zeera",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "lahori"
+  ]
+ },
+ {
+  "name": "Chumbak",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "chumbak"
+  ]
+ },
+ {
+  "name": "Rage Coffee",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "rage coffee"
+  ]
+ },
+ {
+  "name": "Third Wave Coffee",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "third wave"
+  ]
+ },
+ {
+  "name": "Yoga Bar",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "yoga bar"
+  ]
+ },
+ {
+  "name": "Wellbeing Nutrition",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "wellbeing"
+  ]
+ },
+ {
+  "name": "The Man Company",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "man company"
+  ]
+ },
+ {
+  "name": "Dr. Squatch",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "squatch"
+  ]
+ },
+ {
+  "name": "Olipop",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "olipop"
+  ]
+ },
+ {
+  "name": "Liquid I.V.",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "liquid i.v",
+   "liquid iv"
+  ]
+ },
+ {
+  "name": "Bloom Nutrition",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "bloom nutrition"
+  ]
+ },
+ {
+  "name": "Gr\u00fcns",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "gr\u00fcns",
+   "gruns"
+  ]
+ },
+ {
+  "name": "O Positive",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "o positive"
+  ]
+ },
+ {
+  "name": "Magic Mind",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "magic mind"
+  ]
+ },
+ {
+  "name": "Obvi",
+  "role": "best",
+  "industry": "native and people-led statics",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "obvi"
+  ]
+ },
+ {
+  "name": "Kapiva",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "kapiva"
+  ]
+ },
+ {
+  "name": "HealthKart",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "healthkart"
+  ]
+ },
+ {
+  "name": "MuscleBlaze",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "muscleblaze"
+  ]
+ },
+ {
+  "name": "Fittr",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "fittr"
+  ]
+ },
+ {
+  "name": "Foxtale",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "foxtale"
+  ]
+ },
+ {
+  "name": "Mcaffeine",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "mcaffeine"
+  ]
+ },
+ {
+  "name": "The Derma Co",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "the derma co"
+  ]
+ },
+ {
+  "name": "Wild Stone",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "wild stone"
+  ]
+ },
+ {
+  "name": "Bombay Shirt Company",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "bombay shirt company"
+  ]
+ },
+ {
+  "name": "Libas",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "libas"
+  ]
+ },
+ {
+  "name": "Fabindia",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "fabindia"
+  ]
+ },
+ {
+  "name": "Tanishq",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "tanishq"
+  ]
+ },
+ {
+  "name": "CaratLane",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "caratlane"
+  ]
+ },
+ {
+  "name": "Ather Energy",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "ather energy"
+  ]
+ },
+ {
+  "name": "Groww",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "groww"
+  ]
+ },
+ {
+  "name": "Meesho",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "meesho"
+  ]
+ },
+ {
+  "name": "Myntra",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "myntra"
+  ]
+ },
+ {
+  "name": "Ajio",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "ajio"
+  ]
+ },
+ {
+  "name": "BigBasket",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "bigbasket"
+  ]
+ },
+ {
+  "name": "Boldfit",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "boldfit"
+  ]
+ },
+ {
+  "name": "Nat Habit",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "nat habit"
+  ]
+ },
+ {
+  "name": "HYUGALIFE",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "hyugalife"
+  ]
+ },
+ {
+  "name": "Blue Tokai Coffee",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "blue tokai coffee"
+  ]
+ },
+ {
+  "name": "Fire-Boltt",
+  "role": "best",
+  "industry": "",
+  "country": "IN",
+  "page_id": null,
+  "tokens": [
+   "fire-boltt"
+  ]
+ },
+ {
+  "name": "Skims",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "skims"
+  ]
+ },
+ {
+  "name": "Summer Fridays",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "summer fridays"
+  ]
+ },
+ {
+  "name": "Glow Recipe",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "glow recipe"
+  ]
+ },
+ {
+  "name": "Drunk Elephant",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "drunk elephant"
+  ]
+ },
+ {
+  "name": "Hydro Flask",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "hydro flask"
+  ]
+ },
+ {
+  "name": "YETI",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "yeti"
+  ]
+ },
+ {
+  "name": "Owala",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "owala"
+  ]
+ },
+ {
+  "name": "Brightland",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "brightland"
+  ]
+ },
+ {
+  "name": "Fishwife",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "fishwife"
+  ]
+ },
+ {
+  "name": "Omsom",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "omsom"
+  ]
+ },
+ {
+  "name": "The Farmer's Dog",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "the farmer's dog"
+  ]
+ },
+ {
+  "name": "BarkBox",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "barkbox"
+  ]
+ },
+ {
+  "name": "Ruggable",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "ruggable"
+  ]
+ },
+ {
+  "name": "Saatva",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "saatva"
+  ]
+ },
+ {
+  "name": "Eight Sleep",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "eight sleep"
+  ]
+ },
+ {
+  "name": "WHOOP",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "whoop"
+  ]
+ },
+ {
+  "name": "Peloton",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "peloton"
+  ]
+ },
+ {
+  "name": "Headspace",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "headspace"
+  ]
+ },
+ {
+  "name": "Duolingo",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "duolingo"
+  ]
+ },
+ {
+  "name": "Tuft & Needle",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "tuft & needle"
+  ]
+ },
+ {
+  "name": "Nature's Bakery",
+  "role": "best",
+  "industry": "",
+  "country": "US",
+  "page_id": null,
+  "tokens": [
+   "nature's bakery"
+  ]
+ }
+]

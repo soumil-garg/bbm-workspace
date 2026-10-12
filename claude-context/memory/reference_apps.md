@@ -12,3 +12,4 @@ Daily apps:
 - Gmail — email
 - Google Meet — calls and client meetings
 - Instagram — social/business presence
+Google accounts seen on his laptop (Chrome profiles, 2026-10-06): soumilgarg1111@gmail.com (Lotus: GA4 and Meta access, the userEmail), soumilgarg0888@gmail.com (Chrome Profile 1; probably what he means by "the 898 account"), soumilgarg063@gmail.com (Work), plus keventers.com and mastersunion.org logins. The Gmail and Google Calendar claude.ai connectors were NOT connected in the session of 2026-10-06 (he must click Connect and sign in); until then mail and calendar can only be read through Chrome, which steals focus.

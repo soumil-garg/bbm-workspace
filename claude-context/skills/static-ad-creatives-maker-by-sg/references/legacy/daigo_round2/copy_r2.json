@@ -1,0 +1,167 @@
+{
+ "version": "r2-final-1",
+ "note": "Lines chosen after the independent critic (critic_output.md). L arms use the critic's BEST line, typed arms use the ALT (or BEST where there is no lettered twin). Every fact is from copy_v2.json register R1 to R14. h = headline lines, em = indexes drawn in the accent colour.",
+ "C1": {
+  "h": [
+   "Hostel mein dahi?",
+   "Mazaak mat karo."
+  ],
+  "em": [
+   1
+  ],
+  "sub": ""
+ },
+ "C1b": {
+  "h": [
+   "Mess ka khana.",
+   "Apni chaas."
+  ],
+  "em": [
+   1
+  ],
+  "sub": "Sachet phaado. Paani daalo. Hilao."
+ },
+ "C2": {
+  "h": [
+   "Ticket confirm.",
+   "Chaas confirm."
+  ],
+  "em": [
+   1
+  ],
+  "sub": ""
+ },
+ "C2b": {
+  "h": [
+   "Sleeper mein",
+   "bhi chaas."
+  ],
+  "em": [
+   1
+  ],
+  "sub": "Sachet phaado. Paani daalo. Hilao."
+ },
+ "C3": {
+  "h": [
+   "PG mein mixer",
+   "kaun dhoyega?"
+  ],
+  "em": [
+   1
+  ],
+  "sub": "Sachet phaado. Paani daalo. Hilao."
+ },
+ "C4": {
+  "h": [
+   "Phaado.",
+   "Daalo.",
+   "Hilao.",
+   "Chaas."
+  ],
+  "em": [
+   3
+  ],
+  "sub": ""
+ },
+ "C5": {
+  "h": [
+   "Bag mein chaas",
+   "ki dukaan."
+  ],
+  "em": [
+   1
+  ],
+  "h3": "Bag mein<br>chaas ki<br>dukaan.",
+  "sub": "",
+  "strip": [
+   "10 sachet",
+   "10 glass",
+   "Rs 279"
+  ]
+ },
+ "C6": {
+  "h": [
+   "Rs 28",
+   "ka glass."
+  ],
+  "em": [
+   0
+  ],
+  "sub": "10 sachet. Rs 279."
+ },
+ "C7": {
+  "h": [
+   "Ghar door.",
+   "Chaas paas."
+  ],
+  "em": [
+   1
+  ],
+  "sub": ""
+ },
+ "C7b": {
+  "h": [
+   "Ghar se door.",
+   "Chaas se nahi."
+  ],
+  "em": [
+   1
+  ],
+  "sub": "Sachet phaado. Paani daalo. Hilao."
+ },
+ "C9": {
+  "h": [
+   "Sachet kam padenge?",
+   "20 ka pack lo."
+  ],
+  "em": [
+   1
+  ],
+  "sub": "20 sachet. Rs 529."
+ },
+ "C10": {
+  "h": [
+   "Dahi jamana nahi.",
+   "Mixer dhona nahi.",
+   "Jhanjhat nahi."
+  ],
+  "em": [],
+  "sub": "Sachet phaado. Paani daalo. Hilao."
+ },
+ "C11": {
+  "msgs": [
+   [
+    "in",
+    "Khana kha liya?"
+   ],
+   [
+    "out",
+    "Haan. Chaas bhi. Khud banayi, sachet se."
+   ],
+   [
+    "in",
+    "Beta bada ho gaya."
+   ]
+  ]
+ },
+ "C13": {
+  "h": [
+   "Meeting khatam.",
+   "Chaaaas break!!!"
+  ],
+  "em": [
+   1
+  ],
+  "sub": ""
+ },
+ "C14": {
+  "h": [
+   "Road trip?",
+   "Chaas pack hai."
+  ],
+  "em": [
+   1
+  ],
+  "sub": ""
+ }
+}

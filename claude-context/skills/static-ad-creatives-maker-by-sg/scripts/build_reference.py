@@ -1,4 +1,5 @@
-"""Build a clean reference sheet: product packshots on white in a grid. No captions, no props.
+"""LEGACY (v2) multi-product reference sheet. v3 references are one clean pack photo plus one reference per product form (references/whole-ad-recipe.md, step A).
+Build a clean reference sheet: product packshots on white in a grid. No captions, no props.
 Usage: python build_reference.py <out.jpg> <img1> <img2> ... [--cols 4] [--cell 520]
 Pass packshot-only images (product on plain background). If a packshot has props (fruit, leaves, badges,
 'as seen on' stickers), crop them out first: props in the reference leak into generated ads.

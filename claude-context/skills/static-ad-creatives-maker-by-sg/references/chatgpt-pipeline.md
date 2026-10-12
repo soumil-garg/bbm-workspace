@@ -1,4 +1,6 @@
-# ChatGPT generation and download pipeline (Stage 6)
+# ChatGPT generation and download pipeline (FALLBACK ONLY since v3.0)
+
+Stage 6 now runs through the OpenAI API with `scripts/whole_ad.py` (see `whole-ad-recipe.md`). This browser procedure is only for the day the API is unavailable.
 
 Tools: Claude in Chrome (`mcp__claude-in-chrome__*`, load via ToolSearch), PowerShell, Python. Use the profile logged into ChatGPT Plus (`list_connected_browsers`, `select_browser`). Two profiles are common. If the connection drops ("not connected"), re-list browsers and re-select; it is usually transient.
 
