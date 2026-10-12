@@ -9,7 +9,7 @@ Copy-Item "$here\commands\*" "$claude\commands\" -Force
 Copy-Item "$here\skills\*" "$claude\skills\" -Recurse -Force
 New-Item -ItemType Directory -Force $SessionsDir | Out-Null
 # Claude Code names the project folder by replacing : \ / with '-' in the path
-$slug = ($SessionsDir -replace '[:\/]', '-')
+$slug = ($SessionsDir -replace '[:\\/]', '-')
 $memDir = Join-Path $claude "projects\$slug\memory"
 New-Item -ItemType Directory -Force $memDir | Out-Null
 Copy-Item "$here\memory\*" $memDir -Force
